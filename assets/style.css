@@ -55,7 +55,7 @@ details .in{padding:0 16px 16px 38px;color:#d4d4da;font-size:.92rem}
 .nc section{margin:0}
 .nc ul{margin:0;padding:14px 18px 16px 36px;color:#d4d4da}
 .pill{margin-left:auto;flex:none;font-size:.7rem;font-weight:700;padding:1px 9px;border-radius:999px;border:1px solid currentColor}
-.pill.new{color:var(--epic)}.pill.upd{color:var(--funny)}.pill.done{color:#4cc38a}.pill.act{color:var(--muted)}
+.pill.new{color:var(--epic)}.pill.upd{color:var(--funny)}.pill.done{color:#4cc38a}.pill.act{color:var(--muted)}.pill.aband{color:#e5484d}
 .rw{margin:8px 0 0}.rw b{color:var(--text)}
 details .in ul{margin:6px 0 0;padding-left:18px}
 .back{display:inline-block;margin-bottom:6px;color:var(--muted);font-size:.85rem;text-decoration:none}
